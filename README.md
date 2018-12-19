@@ -2,7 +2,7 @@ This is a MXNet(gluon) implementation of ShuffleNet-v2.
 
 reference paper: [ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design](https://arxiv.org/abs/1807.11164)
 
-This project mainly refer to Pytorch implementation of [ericsun99/Shufflenet-v2-Pytorch](https://github.com/ericsun99/Shufflenet-v2-Pytorch/blob/master/ShuffleNetV2.py)
+This project is mainly referred to Pytorch implementation of [ericsun99/Shufflenet-v2-Pytorch](https://github.com/ericsun99/Shufflenet-v2-Pytorch/blob/master/ShuffleNetV2.py)
 
 ---
 ## Testing Environment
